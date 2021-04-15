@@ -1,0 +1,16 @@
+								**** RECEIPT ****
+
+NUM                    ITEMS     UNIT PRICE (RM)     QTY    TOTAL PRICE (RM)
+
+*MEAL 1-SET*
+ 1                  Big_MAC                           1                7.00
+------------------------------------------------------Price MEAL 1: RM 7.00
+*MEAL 2-DIY*
+ 1             Normal_Bread                1.00       1                1.00
+ 2                      Egg                1.00       1                1.00
+ 3                 Tomatoes                0.00       2                0.00
+ 4                  Lettuce                0.00       1                0.00
+ 5                      Tea                1.00       1                1.00
+------------------------------------------------------Price MEAL 2: RM 3.00
+
+-________________________TOTAL Price: RM 10.00_____________________________-

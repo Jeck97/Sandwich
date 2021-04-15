@@ -1,0 +1,7 @@
+Classic_Set		3.00
+Triple_Cheese	5.00
+VegeMax			2.00
+Big_MAC			7.00
+Tea				0.00
+Soft_drink		0.00
+Juice			0.00

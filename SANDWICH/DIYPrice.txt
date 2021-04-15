@@ -1,0 +1,15 @@
+Normal_Bread		1.00
+Multi-grain_Bread	2.00
+Roasted_Bread		2.00
+Egg					1.00
+Roasted_Chicken		2.50
+Tempura_Shrimp		3.00
+Tomatoes			0.00
+Lettuce				0.00
+Red_Onions			0.00
+Cheese				0.00
+Mayonnaise			0.00
+Chili_sauce			0.00
+Tea					1.00
+Soft_drink			1.50
+Juice				2.00
